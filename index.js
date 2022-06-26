@@ -3,22 +3,22 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
-//Thank you to Lord Buddha, Family and Myself
+//© 2022 Umar Bot Inc. Devil Bot MD
+//Thank you to DARK  UMAR, Family and Myself
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe ya
 //codes copy kar ke apne script me dal rhe
-//hai to, description me xeon ka yt channel
+//hai to, description me umar ka yt channel
 // ka link paste kr dena as a cradit or github 
 //repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
+//bhi karna hai apki marzi, thank you!👿
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
 //i give permission to do as long as you
-//put Xeons youtube channel link in the video
+//put Umar youtube channel link in the video
 //description and tag me on githuh repo, 
-//thank you🦄
+//thank you👿
 //════════════════════════════//
 
 require("./config.js")
@@ -51,17 +51,17 @@ console.log(color(figlet.textSync('Cheems Bot-MD', {
 	    width: 80,
 		whitespaceBreak: true
         }), 'yellow'))
-console.log(color('\n🐶 YT CHANNEL: Xeon ','silver'))
-console.log(color('🐶 GITHUB: DGXeon ','silver'))
-console.log(color('🐶 WA NUMBER: +916909137213 ','silver'))
-console.log(color('  🦄Xeon Bot Inc. 2022🦄','mediumseagreen'))
+console.log(color('\n🐶 YT CHANNEL: Umar Mods ','silver'))
+console.log(color('🐶 GITHUB: umarmods','silver'))
+console.log(color('🐶 WA NUMBER: +923165123719','silver'))
+console.log(color('  👿Devil Bot Inc. 2022👿','mediumseagreen'))
     console.log(color('🐶','red'), color('I Wrote This Script By Myself!', 'yellow'))
     console.log(color('🐶','red'), color('Source Code Version: 3.0', 'aqua'))
     console.log(color('🐶','red'), color('Bug? Error? Suggestion? Talk to developer:', 'aqua'))
-    console.log(color('🐶', 'cyan'), color('https://wa.me/916909137213'))
-    console.log(color('🐶', 'cyan'), color('Cheems Bot Is Online...', 'pink'))
+    console.log(color('🐶', 'cyan'), color('https://wa.me/923165123719'))
+    console.log(color('🐶', 'cyan'), color('Devil Bot Is Online...', 'pink'))
     console.log(color('🐶', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
-    console.log(color('🐶','red'), color('Thanks For Using Cheems Bot', 'white'))
+    console.log(color('🐶','red'), color('Thanks For Using Devil Bot', 'white'))
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const XeonBotInc = XeonBotIncConnect({
         logger: pino({ level: 'silent' }),
@@ -156,9 +156,9 @@ XeonBotInc.ev.on('group-participants.update', async (anu) => {
                 const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
 	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
-                let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
+                let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "923165123719-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                 xeonbody = `┌─❖
-│「 𝗛𝗶 👋 」
+│「 𝗛𝗶 𝘿𝙚𝙖𝙧 👋 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
    │✑  ${metadata.subject}
@@ -180,7 +180,7 @@ jpegThumbnail:buffer,
 mentions: [num],
 fileName: `${metadata.subject}`,
 fileLength: 99999999999999,
-caption: xeonbody,
+caption: devilbody,
 footer: `${botname}`,
 buttons: buttons,
 headerType: 4,
@@ -200,9 +200,9 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
 	                const xeondate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
                 	let xeonName = num
                     const xeonmembers = metadata.participants.length
-                    let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                    xeonbody = `┌─❖
-│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 」
+                    let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "923165123719-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
+                    devilbody = `┌─❖
+│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 𝘿𝙚𝙖𝙧👋 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗟𝗲𝗳𝘁 
    │✑ ${metadata.subject}
