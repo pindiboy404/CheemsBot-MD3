@@ -1,6 +1,6 @@
 {
- "name": "CheemsBot-MD",
- "description": "Multi Device Whatsapp Bot By Xeon",
+ "name": "Devil-MD",
+ "description": "Multi Device Whatsapp Bot By Umar",
  "version": "3.0.0",
  "main": "index.js",
  "type": "commonjs",
@@ -18,7 +18,7 @@
   "bot-md",
   "multi-device"
  ],
- "author": "Xeon",
+ "author": "Umar",
  "license": "MIT",
  "dependencies": {
   "@adiwajshing/baileys": "^4.0.1",
