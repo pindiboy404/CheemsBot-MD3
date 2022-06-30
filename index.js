@@ -51,17 +51,17 @@ console.log(color(figlet.textSync('Cheems Bot-MD', {
 	    width: 80,
 		whitespaceBreak: true
         }), 'yellow'))
-console.log(color('\n🐶 YT CHANNEL: Umar Mods ','silver'))
-console.log(color('🐶 GITHUB: umarmods','silver'))
-console.log(color('🐶 WA NUMBER: +923165123719','silver'))
+console.log(color('\n👿 YT CHANNEL: Umar Mods ','silver'))
+console.log(color('👿 GITHUB: umarmods','silver'))
+console.log(color('👿 WA NUMBER: +923165123719','silver'))
 console.log(color('  👿Devil Bot Inc. 2022👿','mediumseagreen'))
-    console.log(color('🐶','red'), color('I Wrote This Script By Myself!', 'yellow'))
-    console.log(color('🐶','red'), color('Source Code Version: 3.0', 'aqua'))
-    console.log(color('🐶','red'), color('Bug? Error? Suggestion? Talk to developer:', 'aqua'))
-    console.log(color('🐶', 'cyan'), color('https://wa.me/923165123719'))
-    console.log(color('🐶', 'cyan'), color('Devil Bot Is Online...', 'pink'))
-    console.log(color('🐶', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
-    console.log(color('🐶','red'), color('Thanks For Using Devil Bot', 'white'))
+    console.log(color('👿','red'), color('I Wrote This Script By Myself!', 'yellow'))
+    console.log(color('👿','red'), color('Source Code Version: 3.0', 'aqua'))
+    console.log(color('👿','red'), color('Bug? Error? Suggestion? Talk to developer:', 'aqua'))
+    console.log(color('👿', 'cyan'), color('https://wa.me/923165123719'))
+    console.log(color('👿', 'cyan'), color('Devil Bot Is Online...', 'pink'))
+    console.log(color('👿', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
+    console.log(color('👿','red'), color('Thanks For Using Devil Bot', 'white'))
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const XeonBotInc = XeonBotIncConnect({
         logger: pino({ level: 'silent' }),
@@ -158,7 +158,7 @@ XeonBotInc.ev.on('group-participants.update', async (anu) => {
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "923165123719-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                 xeonbody = `┌─❖
-│「 𝗛𝗶 𝘿𝙚𝙖𝙧 👋 」
+│「 𝗛𝗶 𝙅𝙖𝙣𝙚𝙢𝙖𝙢 𝙆𝙮𝙖 𝙃𝙖𝙖𝙡 𝙃𝙖𝙞 𝙂𝙧𝙤𝙪𝙤 𝙅𝙤𝙞𝙣 𝙆𝙖𝙧𝙩𝙚 𝙒𝙖𝙦𝙖𝙩 𝙩𝙤 𝙠𝙤𝙞 𝙩𝙖𝙠𝙡𝙚𝙛 𝙣𝙖𝙝𝙞 𝙝𝙤𝙮𝙚 🐒😅👋 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
    │✑  ${metadata.subject}
